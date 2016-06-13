@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">Gamr</string>
-    <string name="app_slogan">No Mo Randos</string>
+    <string name="app_name">Gamr</string> <!--*****PLACEHOLDER*****-->
+    <string name="app_slogan">No Mo Randos</string> <!--*****PLACEHOLDER*****-->
+
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
@@ -13,4 +14,5 @@
         completions."
     </string>
     <string name="action_sign_up"><u>Sign Up</u></string>
+
 </resources>
